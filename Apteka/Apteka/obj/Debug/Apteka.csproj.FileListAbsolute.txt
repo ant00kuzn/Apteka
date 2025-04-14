@@ -1,0 +1,10 @@
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\bin\Debug\Apteka.exe.config
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\bin\Debug\Apteka.exe
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\bin\Debug\Apteka.pdb
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.csproj.AssemblyReference.cache
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.Form1.resources
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.Properties.Resources.resources
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.csproj.GenerateResource.cache
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.exe
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.pdb

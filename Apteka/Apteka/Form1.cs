@@ -19,6 +19,7 @@ namespace Apteka
 
         private void Form1_Load(object sender, EventArgs e)
         {
+           pictureBox3.Image = Captha.Gena(222,155);
         }
     }
 }
