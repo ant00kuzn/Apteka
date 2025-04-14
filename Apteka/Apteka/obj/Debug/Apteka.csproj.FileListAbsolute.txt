@@ -8,3 +8,4 @@ C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.csproj.Generat
 C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.csproj.CoreCompileInputs.cache
 C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.exe
 C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.pdb
+C:\Users\student250\Desktop\Apteka\Apteka\Apteka\obj\Debug\Apteka.Form2.resources
